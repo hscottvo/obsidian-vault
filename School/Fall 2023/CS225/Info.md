@@ -1,6 +1,6 @@
 # 📃 Course -> Spatial Computing
 # 🌍 What It's About
--   
+-   Test
 ---
 
 ## 📜 Notes and Ideas
