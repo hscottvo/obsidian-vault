@@ -1,3 +1,4 @@
+[[Info|Directory]]
 # ❗❓ Information
 Related to Course::
 Date::

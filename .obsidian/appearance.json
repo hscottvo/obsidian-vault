@@ -1,3 +1,8 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "cssTheme": "Golden Topaz",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "figures"
+  ]
 }
