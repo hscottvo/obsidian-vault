@@ -82,7 +82,7 @@ Book `pages 15 - 58`
 - example #thin-plate_spline just gets surface as close to datapoints as possible, given a smoothness parameter
 ![[Pasted image 20230820195059.png | center | 350]]
 <p style="text-align:center;">thin-plate splice with low smoothness</p> 
-- lower level of smoothness (above) can be more variable (`overfitting`)
+- lower level of smoothness (above) can be more variable (`overfitting`) than higher (below)
 ![[Pasted image 20230820200228.png | center | 350]]
 <p style="text-align:center;">thin-plate splice with high smoothness</p> 
 - choosing smoothness levels covered in #Chapter5, and splines in #Chapter7 
