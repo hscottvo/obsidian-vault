@@ -1,0 +1,10 @@
+- TA makes eye contact with students to keep them engaged
+- speaks loudly enough to hear in back of classroom
+- quickly reminds students of previous concept without taking too much time
+- repeats student's question/answer so everyone can hear
+- whiteboard writing might look too small if the classroom is any bigger
+- speaks clearly
+- doesn't wait too long if asking students for answer, moves on to explaining if no volunteers
+	- doesn't feel uncomfortable waiting for someone to talk
+- doesn't talk too fast
+- 

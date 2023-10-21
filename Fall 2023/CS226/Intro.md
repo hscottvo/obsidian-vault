@@ -6,3 +6,4 @@ office hours tues thurs 4-450 on zoom
 - doesn't matter as much about the volume of the data
 - have small data but complex analysis? might have to do iterations etc makes it big data
 - simple scan on big file? Maybe not big data
+

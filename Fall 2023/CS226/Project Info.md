@@ -1,0 +1,14 @@
+- use acm templates to write papers
+- use word or overleaf (prof prefers overleaf )
+# Proposal
+- introduction what the problem is
+	- assume no background in what the problem is
+	- explain context of the problem, not just how the big data applies
+- explain what the final product will look like
+		- example: historical data for the past year, then top 5 trending
+		- can't know exactly how it works but want to explain what the end produce
+- general timeline
+- what dataset and how
+	- crawler what website
+	- pre-gathered dataset, have to explain what is in the dataset and how structured
+- 
