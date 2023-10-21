@@ -1,5 +1,5 @@
-[page 63](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf#page=63)
-[solutions](https://github.com/asadoughi/stat-learning/)
+[page 73](https://hastie.su.domains/ISLP/ISLP_website.pdf#page=73)
+[solutions & data](https://github.com/asadoughi/stat-learning/)
 `red`: looked at solution
 # Conceptual
 1. For each of parts (a) through (d), indicate whether we would generally expect the performance of a flexible statistical learning method to be better or worse than an inflexible method. Justify your answer.

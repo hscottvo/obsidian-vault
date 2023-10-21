@@ -1,6 +1,6 @@
 #Notes #Stats #Chapter2
 [[0 - Introduction to Statistical Learning|Info]]
-PDF [pages 26 - 69](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf#page=26)
+PDF [pages 25 - 69](https://hastie.su.domains/ISLP/ISLP_website.pdf#page=26)
 Book `pages 15 - 58`
 # 2.1 - What is Statistical Learning?
 ## Example - Media Advertising
