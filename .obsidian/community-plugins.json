@@ -1,4 +1,6 @@
 [
   "table-editor-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "dataview",
+  "obsidian-tasks-plugin"
 ]
