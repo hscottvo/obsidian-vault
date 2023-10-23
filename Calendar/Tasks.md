@@ -7,8 +7,8 @@
 - [ ] CS226 Report Draft (optional) (11/29 10a) 📅 2023-11-28
 - [ ] CS226 Final Report, product, presentation (12/11 5p) 📅 2023-12-11
 # CS235
-- [ ] Mock Quiz [link](https://elearn.ucr.edu/courses/104198/quizzes/93409) 📅 2023-10-24
-- [ ] Read Paper [link](https://asistdl.onlinelibrary.wiley.com/doi/epdf/10.1002/%28SICI%291097-4571%28199009%2941%3A6%3C391%3A%3AAID-ASI1%3E3.0.CO%3B2-9) ⏳ 2023-10-21
+- [x] Mock Quiz [link](https://elearn.ucr.edu/courses/104198/quizzes/93409) 📅 2023-10-24 ✅ 2023-10-22
+- [x] Read Paper [link](https://asistdl.onlinelibrary.wiley.com/doi/epdf/10.1002/%28SICI%291097-4571%28199009%2941%3A6%3C391%3A%3AAID-ASI1%3E3.0.CO%3B2-9) ⏳ 2023-10-21 ✅ 2023-10-22
 - [ ] Paper Quiz [link](https://elearn.ucr.edu/courses/104198/quizzes/93412)📅 2023-10-24 ⏫ 
 # CS236
 - [ ] Make Announcement for Project 📅 2023-10-23
