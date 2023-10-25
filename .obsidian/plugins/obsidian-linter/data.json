@@ -60,7 +60,7 @@
       "use-yaml-key-to-keep-track-of-old-filename-or-heading": true
     },
     "capitalize-headings": {
-      "enabled": false,
+      "enabled": true,
       "style": "Title Case",
       "ignore-case-words": true,
       "ignore-words": "macOS, iOS, iPhone, iPad, JavaScript, TypeScript, AppleScript, I",
@@ -70,14 +70,14 @@
       "enabled": false
     },
     "header-increment": {
-      "enabled": false,
-      "start-at-h2": false
+      "enabled": true,
+      "start-at-h2": true
     },
     "headings-start-line": {
-      "enabled": false
+      "enabled": true
     },
     "remove-trailing-punctuation-in-heading": {
-      "enabled": false,
+      "enabled": true,
       "punctuation-to-remove": ".,;:!。，；：！"
     },
     "footnote-after-punctuation": {
@@ -94,14 +94,14 @@
       "ignore-words": ""
     },
     "blockquote-style": {
-      "enabled": false,
+      "enabled": true,
       "style": "space"
     },
     "convert-bullet-list-markers": {
-      "enabled": false
+      "enabled": true
     },
     "emphasis-style": {
-      "enabled": false,
+      "enabled": true,
       "style": "consistent"
     },
     "no-bare-urls": {
@@ -109,12 +109,12 @@
       "no-bare-uris": false
     },
     "ordered-list-style": {
-      "enabled": false,
+      "enabled": true,
       "number-style": "ascending",
       "list-end-style": "."
     },
     "proper-ellipsis": {
-      "enabled": false
+      "enabled": true
     },
     "quote-style": {
       "enabled": false,
@@ -127,23 +127,23 @@
       "enabled": false
     },
     "remove-empty-list-markers": {
-      "enabled": false
+      "enabled": true
     },
     "remove-hyphenated-line-breaks": {
       "enabled": false
     },
     "remove-multiple-spaces": {
-      "enabled": false
+      "enabled": true
     },
     "strong-style": {
-      "enabled": false,
+      "enabled": true,
       "style": "consistent"
     },
     "two-spaces-between-lines-with-content": {
-      "enabled": false
+      "enabled": true
     },
     "unordered-list-style": {
-      "enabled": false,
+      "enabled": true,
       "list-style": "consistent"
     },
     "compact-yaml": {
