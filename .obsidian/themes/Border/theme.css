@@ -7607,7 +7607,7 @@ body {
 
 body {
     --code-background: #ffffff00;
-    --code-background-light: var(--background-alt-light);
+    /* --code-background-light: var(--background-alt-light); */
     --code-background-dark: var(--background-alt-dark);
 }
 
