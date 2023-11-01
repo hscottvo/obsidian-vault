@@ -38,3 +38,24 @@
 	- `createOrReplaceTempView` creates an alias for sql to read the file in the query
 	- use that in `sqlContext.sql("""<query>""")` to run query
 - recall - sql operation takes in relation & outputs relation
+## SparkSQL Query Plan
+- looks at multiple logical plans to find optimized logical plan
+- physical plans to check how to actually do the operations
+- ends up being more optimized than human-written RDDs, just computer-generated RDDs at the end of the day
+## Parsing
+- creates unresolved logical plan from either Dataframe or SparkSQL code
+	- doesn't matter which one, ends up being RDD anyway
+- doesn't know if the logic is correct (table exists etc)
+## Analysis
+- change datatypes as required
+- make sure that subqueries etc correctly feed into others
+## Logical Optimization
+- applies regex for `like` keyword
+	- optimizes existing `like` code
+- some optimizations are possible by hand, but code will be more complicated
+## Catalyst Query Optimizer
+- extension: can add project/org-specific rules to the query optimization
+## Physical Optimization
+- if indexed, can push selection all the way down to the file parse
+- column stores -> can push projection down too
+## Code Generation
