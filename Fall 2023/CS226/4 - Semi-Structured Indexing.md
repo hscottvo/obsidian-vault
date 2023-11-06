@@ -15,7 +15,7 @@
 	- think @gmail is going to be very common
 - range search/random access difficult
 	- find nth record means you have to count, can't just jump
-### diff encoding
+### Diff Encoding
 - expect data to be fairly similar, can just put value relative to previous column
 - deltas can possibly use fewer bits per entry
 - can be applied before compression
@@ -35,13 +35,39 @@
 	- idea: single records stored in 1 machine
 	- still stored column-wise within block
  - uses `protocol buffers format (PBF)` to define schema
-	 - repeated, required, optional, group
+	 - repeated, required, optional, group  
 example schema:
 ```json
 message AddressBook {
 	required string owner;
 	repeated string ownerPhoneNumbers;
-	
+	group contacts {
+		name: "Scott", 
+		number: 555-555-5555
+	}	
 }
 ```
-- nested columns can be defined as desired, but parquet only cares about the actual values
+- nested columns can be defined as desired, but parquet only cares about the actual values  
+
+| owner | ownerphonenumbers | contacts.name | contacts.number |
+| ----- | ----------------- | ------------- | --------------- |
+|  …      | …                   | …               | …                 |
+
+### Definition Level
+- definition levels let you know how many nulls in nesting
+- definition level: how many scopes are non-null
+	- `a: null` has def level 0
+	- `a: {b: {c: null } }` has def level 2
+	- `a: {b: {c: "abc"} }` has def level 3
+	- level cannot be defined if previous are not defined -> level defined assumes all levels before are defined
+ - can skip definition levels that are not possible
+	 - `optional group a {required group b {optional string c }} ` -> `a: {b: null}` is not possible -> skip that definition
+- max def level: max number of nullables up until and including the attribute
+## Repetition Level
+- level at which we create new list
+- value is the lowest level that it is the newest of
+- " was it added as a level2 array, a level1 array, or new object?"
+	- 0: started new record
+	- 1: started new object at level 1
+	- 2: started new object at level 2
+- max rep level: sum of repeatables up until and including the attribute
