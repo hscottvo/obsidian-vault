@@ -63,7 +63,7 @@ message AddressBook {
  - can skip definition levels that are not possible
 	 - `optional group a {required group b {optional string c }} ` -> `a: {b: null}` is not possible -> skip that definition
 - max def level: max number of nullables up until and including the attribute
-## Repetition Level
+### Repetition Level
 - level at which we create new list
 - value is the lowest level that it is the newest of
 - " was it added as a level2 array, a level1 array, or new object?"
