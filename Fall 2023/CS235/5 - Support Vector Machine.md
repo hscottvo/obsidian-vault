@@ -4,10 +4,9 @@
 - weigh points closer to boundary more than far away
 	- distance: project from point onto line
 - want to maximize `margin` around line to points
-- bias  - how far from margin
+- bias - how far from margin
 - can train with closed form(?)
 - margins same size on both sides
-- 
 ### Outliers
 - don't need overly complex classifier
 	- allow for `slack`
@@ -18,10 +17,10 @@
 - predict incorrect: linear based on how wrong you were (away from the margin)
 	- the margin is that of what the actual class was, not the predicted class
 
-## How to deal with nonlinear data?
+## How to Deal with Nonlinear Data?
  - learn a function to map data onto new dimensions
 	 - want data to be pretty linearly separable afterward
-### kernel trick
+### Kernel Trick
 - hard to compute transformation for all data points
 	- don't need to know transformation for all data points
 	- instead, look at distance in high vs low dimension space
