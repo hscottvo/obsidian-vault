@@ -98,3 +98,33 @@
 - use a heuristic or greedy to get clustering 
 #### Density
 - DBSCAN
+### Density-based Clustering Methods
+- k-means etc deals with spherical clusters
+	- can't handle complex shapes/nesting
+	- very sensitive to outliers
+#### DBSCAN
+- look at the density of points in a region, form the clusters in that fashion
+1. look at each point -> draw circle around it, look at how many points it overlaps
+	- that is the density
+	- can have diff metrics to count what is inside vs what is outside
+	- size of circle is one of the parameters
+2. minimum `support` threshold for a point to be a core point
+	- throw out points that are not core points
+	- decided by practitioner
+3. after defining core points, choose a random core point
+	- surrounding core points within the overlapping circle gets added to the cluster
+	- only core points are added to this stage
+4. add non-core points that are close to core points to the cluster of the core point
+	- the non-core point's nearest neighbor must be a core point 
+		- probably stops too much propagation 
+- don't choose number of clusters ahead of time
+- end up with outliers being unclustered
+- `density-reachable` - can be assigned to a cluster within a certain number of propagations
+	- asymmetric
+- `density connected` - 2 points are both density-reachable from a single point
+	- symmetric
+- efficiency - can use `R* Tree` to index nearby points better
+- deterministic? 
+	- Depending on ordering, border points might end up in different clusters
+		- can happen if clusters are very close to each other
+	- most of the cluster will be the same
