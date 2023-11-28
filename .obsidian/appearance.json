@@ -1,8 +1,10 @@
 {
   "accentColor": "",
-  "cssTheme": "Border",
-  "theme": "moonstone",
+  "cssTheme": "Catppuccin",
+  "theme": "obsidian",
   "enabledCssSnippets": [
     "figures"
-  ]
+  ],
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Inter"
 }
