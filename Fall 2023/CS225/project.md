@@ -26,3 +26,9 @@
 ## TODOS
 - get the 50 papers and distribute them into the 3 sections
 - me: just 
+- Tuesday
+	- through text, split work on who works on what section 1-3
+- Wed
+	- Updates
+- Weekend
+	- Working Session
