@@ -61,7 +61,7 @@
 
 ## Standard Enc-Dec
 - word embedding ot pass into encoders
-- gts passsed into every decoder block
+- gts passed into every decoder block
 - encoder layer_norm: normalize so gradient flows better
 - decoder masked self-attention
 	- mask future tokens so we don't attend on things we haven't predicted yet
