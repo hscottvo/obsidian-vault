@@ -14,3 +14,14 @@ _non-uniform memory access_
 	- perfect scalable system: 1-to-1
 	- can't happen due to other bottlenecks
 - not everything is parallelizeable
+
+
+0 is unlocked, 1 is locked
+3 CPUs A, B, A, B, C
+
+lock array is bool array 
+
+[0, 0, 1, 0, 0]
+
+right now: A has the lock
+next_ticket = 0

@@ -1,0 +1,5 @@
+- similar review lecture to midterm
+- CEP: if you got a 0, if you do well in the final you can still get 2 passes
+- final CEP weighted more than the midterm CEP
+- content after midterm
+- 
