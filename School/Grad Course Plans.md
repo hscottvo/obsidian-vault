@@ -1,3 +1,4 @@
+
 | Course                                      | Category                                          | Code  | Quarter     | Professor       |
 | ------------------------------------------- | ------------------------------------------------- | ----- | ----------- | --------------- |
 | Spatial Computing                           | Elective C: Data                                  | CS225 | Fall 2023   | Amr Magdy       |
