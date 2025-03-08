@@ -1,7 +1,7 @@
 {
   "accentColor": "",
-  "cssTheme": "Catppuccin",
-  "theme": "moonstone",
+  "cssTheme": "Obsidian Nord",
+  "theme": "obsidian",
   "enabledCssSnippets": [
     "figures"
   ],
