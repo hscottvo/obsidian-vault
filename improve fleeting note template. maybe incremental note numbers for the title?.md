@@ -1,7 +1,10 @@
 ---
-created: "2026-11-15 10:06"
+created: 2026-11-15 10:06
 tags:
-  - todo
+  - obsidian
+  - gardening
 ---
 
 # improve fleeting note template. maybe incremental note numbers for the title?
+
+- should check no-boilerplate's templates if public. might be behind patreon
