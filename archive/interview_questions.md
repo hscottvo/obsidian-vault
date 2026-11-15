@@ -25,10 +25,17 @@
 - Learned a lot about tracking down the right people and how to ask the right questions
 
 ### Conflict with Coworker
-- Project: 7DA load forecasts on Azure
+- Project: RUOES Battery Optimization at SCE
 #### S/T
-- Developing set of new pipelines to forecast energy usage throughout SoCal, 7 days out
-- On Microsoft Azure using automl 
-- mentor had one approach in mind, but 
+- Drafting output format specifications with colleague and upstream teams
+- disagreement on constraint file: does a constraint overload spanning more than 1 day mean the constraint hours are the same on both days or is it start date & hour -> end date -> hour
 #### A
+- enter discussion with colleague to understand why he wanted to do same hours across days
+- argue my point that, in terms of the batteries themselves, more likely to have multi-day constraint overloads 
+- keep in mind that colleague also probably has a more seasoned intuition 
+- ask upstream team for historical constraint overrides
 #### R
+- end up going with my idea
+	- multi-day overload was more common and made more sense than daily hourly
+	- cleaner to implement daily-hourly in the multi-day system than vice versa
+- automation of the tools went smoothly 
