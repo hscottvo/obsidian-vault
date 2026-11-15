@@ -1,9 +1,12 @@
 {
-  "app:open-help": [],
-  "command-palette:open": [
+  "quickadd:choice:446ae352-2b82-4587-b5ec-e7d6ea49375f": [
     {
-      "modifiers": [],
-      "key": "F1"
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "N"
     }
-  ]
+  ],
+  "file-explorer:new-file-in-new-pane": []
 }

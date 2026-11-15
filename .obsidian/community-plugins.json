@@ -4,5 +4,6 @@
   "dataview",
   "obsidian-linter",
   "obsidian-relative-line-numbers",
-  "obsidian-plugin-toc"
+  "obsidian-plugin-toc",
+  "quickadd"
 ]

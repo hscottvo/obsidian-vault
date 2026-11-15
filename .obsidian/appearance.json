@@ -1,10 +1,11 @@
 {
   "accentColor": "",
-  "cssTheme": "Obsidian Nord",
+  "cssTheme": "Catppuccin",
   "theme": "obsidian",
   "enabledCssSnippets": [
     "figures"
   ],
   "interfaceFontFamily": "Inter",
-  "textFontFamily": "Inter"
+  "textFontFamily": "Inter",
+  "showRibbon": true
 }
