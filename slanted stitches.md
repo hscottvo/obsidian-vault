@@ -2,7 +2,8 @@
 created: 2026-11-15 20:43
 tags:
 project: quilt
-test:
+phase: "- done"
+type: "- research"
 ---
 
 # slanted stitches

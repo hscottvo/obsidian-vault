@@ -1,0 +1,3 @@
+fleeting
+planning
+done

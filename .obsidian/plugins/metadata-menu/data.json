@@ -8,13 +8,11 @@
       "colorClass": "select",
       "options": {
         "sourceType": "ValuesListNotePath",
-        "valuesList": {
-          "1": ""
-        },
-        "valuesListNotePath": "type.md"
+        "valuesList": {},
+        "valuesListNotePath": "metadata-menu/phase.md"
       },
-      "name": "type",
-      "id": "jy21h0",
+      "name": "phase",
+      "id": "FD8sOm",
       "path": ""
     },
     {
@@ -25,11 +23,13 @@
       "colorClass": "select",
       "options": {
         "sourceType": "ValuesListNotePath",
-        "valuesList": {},
-        "valuesListNotePath": "phase.md"
+        "valuesList": {
+          "1": ""
+        },
+        "valuesListNotePath": "metadata-menu/type.md"
       },
-      "name": "phase",
-      "id": "FD8sOm",
+      "name": "type",
+      "id": "jy21h0",
       "path": ""
     }
   ],
@@ -39,7 +39,7 @@
   "classFilesPath": null,
   "isAutosuggestEnabled": true,
   "fileClassAlias": "fileClass",
-  "settingsVersion": "5.5",
+  "settingsVersion": "5.7",
   "firstDayOfWeek": 1,
   "enableLinks": true,
   "enableTabHeader": true,

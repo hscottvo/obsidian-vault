@@ -4,6 +4,8 @@ tags:
   - "#gardening"
   - story
 project: obsidian
+phase: planning
+type: story
 ---
 
 # i want my obsidian config on github to be declarative. but work stuff can't be on that repo. maybe on gitignore?
