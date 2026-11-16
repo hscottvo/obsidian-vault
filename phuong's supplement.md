@@ -1,8 +1,9 @@
 ---
 created: 2026-11-15 19:37
 tags:
-  - "#adhd"
   - research
+project:
+  - adhd
 ---
 #todo get the name of the supplement in here
 # phuong's supplement
