@@ -4,6 +4,6 @@ tags:
   - "#adhd"
   - research
 ---
-
+#todo get the name of the supplement in here
 # phuong's supplement
 - should see what teh science is about it, how to track, talk to therapist
