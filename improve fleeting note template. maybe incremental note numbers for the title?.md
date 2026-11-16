@@ -3,6 +3,7 @@ created: 2026-11-15 10:06
 tags:
   - obsidian
   - gardening
+  - story
 ---
 
 # improve fleeting note template. maybe incremental note numbers for the title?

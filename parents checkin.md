@@ -16,4 +16,4 @@ created: 2026-11-15 9:33:40
 - they're ok with taking care of sesame if needed, check with ellie's ext family first
 	- Task: recheck with scott's parents if we should ask belinda's house first or just do our house if ellie's house cannot
 		- decision: parents can do it. uncle has baby and is rly far and cats. don't need to ask belinda
-	- #todo have a phone number to call if they have cat questions
+	- #todo have a phone number to call if they have cat questions: Ellen

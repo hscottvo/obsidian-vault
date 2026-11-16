@@ -1,7 +1,8 @@
 ---
-created: "2026-11-15 03:06"
+created: 2026-11-15 03:06
 tags:
-  - todo
+  - gardening
+  - story
 ---
 
 # templates for journaling to fill things out easier
