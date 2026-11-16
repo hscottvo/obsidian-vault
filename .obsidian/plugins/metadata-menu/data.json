@@ -16,6 +16,21 @@
       "name": "type",
       "id": "jy21h0",
       "path": ""
+    },
+    {
+      "type": "Select",
+      "tagName": "select",
+      "icon": "right-triangle",
+      "tooltip": "Accepts a single value from a list",
+      "colorClass": "select",
+      "options": {
+        "sourceType": "ValuesListNotePath",
+        "valuesList": {},
+        "valuesListNotePath": "phase.md"
+      },
+      "name": "phase",
+      "id": "FD8sOm",
+      "path": ""
     }
   ],
   "fileClassQueries": [],
@@ -24,7 +39,7 @@
   "classFilesPath": null,
   "isAutosuggestEnabled": true,
   "fileClassAlias": "fileClass",
-  "settingsVersion": "5.3",
+  "settingsVersion": "5.5",
   "firstDayOfWeek": 1,
   "enableLinks": true,
   "enableTabHeader": true,

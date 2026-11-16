@@ -5,7 +5,7 @@
       "name": "Fleeting Note",
       "type": "Template",
       "command": true,
-      "templatePath": "Templates/Fleeting.md",
+      "templatePath": "templates/Fleeting.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
@@ -20,7 +20,7 @@
       },
       "appendLink": false,
       "copyLinkToClipboard": false,
-      "openFile": false,
+      "openFile": true,
       "fileOpening": {
         "location": "tab",
         "direction": "vertical",
