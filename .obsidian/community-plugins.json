@@ -2,10 +2,10 @@
   "table-editor-obsidian",
   "obsidian-git",
   "dataview",
-  "obsidian-linter",
   "obsidian-relative-line-numbers",
   "obsidian-plugin-toc",
   "quickadd",
   "icloud-notes",
-  "metadata-menu"
+  "metadata-menu",
+  "rumdl"
 ]

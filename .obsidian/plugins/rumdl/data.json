@@ -1,0 +1,13 @@
+{
+  "formatOnSave": true,
+  "showStatusBar": true,
+  "disabledRules": [
+    "MD041"
+  ],
+  "lineLength": 0,
+  "useConfigFile": true,
+  "headingStyle": "consistent",
+  "emphasisStyle": "consistent",
+  "strongStyle": "consistent",
+  "ulStyle": "consistent"
+}

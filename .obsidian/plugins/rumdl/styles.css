@@ -1,0 +1,230 @@
+.rumdl-results {
+  max-height: 400px;
+  overflow-y: auto;
+}
+
+.rumdl-warning {
+  padding: 8px 12px;
+  border-bottom: 1px solid var(--background-modifier-border);
+  cursor: pointer;
+}
+
+.rumdl-warning:hover {
+  background: var(--background-modifier-hover);
+}
+
+.rumdl-warning-header {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  margin-bottom: 4px;
+}
+
+.rumdl-fixable {
+  color: var(--text-accent);
+  font-size: 0.85em;
+}
+
+.rumdl-message {
+  color: var(--text-muted);
+  font-size: 0.9em;
+}
+
+.rumdl-rules {
+  max-height: 400px;
+  overflow-y: auto;
+}
+
+.rumdl-rule {
+  padding: 6px 0;
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.rumdl-rule:last-child {
+  border-bottom: none;
+}
+
+/* Status bar styles */
+.rumdl-status {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  cursor: pointer;
+  padding: 0 6px;
+  border-radius: 4px;
+  transition: background-color 0.15s ease;
+}
+
+.rumdl-status:hover {
+  background-color: var(--background-modifier-hover);
+}
+
+.rumdl-status-icon {
+  display: flex;
+  align-items: center;
+}
+
+.rumdl-status-icon svg {
+  width: 14px;
+  height: 14px;
+}
+
+.rumdl-status.rumdl-clean .rumdl-status-icon {
+  color: var(--color-green);
+}
+
+.rumdl-status.rumdl-issues .rumdl-status-icon {
+  color: var(--color-orange);
+}
+
+.rumdl-status-text {
+  font-size: var(--font-ui-smaller);
+}
+
+/*
+ * Lint hover tooltip. CodeMirror renders it as
+ *   div.cm-tooltip.cm-tooltip-hover > ul.cm-tooltip-lint > li.cm-diagnostic
+ * and styles it from its own injected stylesheet, whose selectors compile to
+ * `.ͼN .cm-…`. Obsidian gives hover-tooltip hosts no styling of its own, so
+ * the host rule below themes every hover tooltip host with Obsidian's design
+ * tokens; the tag qualifier makes it one step more specific than the compiled
+ * CodeMirror selectors so it wins regardless of stylesheet order. Everything
+ * opinionated about lint content stays scoped under .cm-tooltip-lint.
+ */
+div.cm-tooltip.cm-tooltip-hover {
+  pointer-events: auto;
+  background-color: var(--background-primary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  font-family: var(--font-interface);
+}
+
+.cm-tooltip-hover .cm-tooltip-lint {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  max-width: 400px;
+  background-color: transparent;
+}
+
+.cm-tooltip-hover .cm-tooltip-lint .cm-diagnostic {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 12px 14px;
+  margin: 0;
+  border-bottom: 1px solid var(--background-modifier-border);
+  background: transparent;
+  white-space: pre-wrap;
+}
+
+.cm-tooltip-hover .cm-tooltip-lint .cm-diagnostic:last-child {
+  border-bottom: none;
+}
+
+.cm-tooltip-hover .cm-tooltip-lint .cm-diagnostic.cm-diagnostic-warning {
+  border-left: 3px solid var(--color-orange);
+}
+
+.cm-tooltip-hover .cm-tooltip-lint .cm-diagnostic.cm-diagnostic-error {
+  border-left: 3px solid var(--color-red);
+}
+
+/* Rule name as a chip above the message */
+.cm-tooltip-hover .cm-tooltip-lint .cm-diagnosticSource {
+  order: -1;
+  flex-basis: 100%;
+  width: fit-content;
+  margin-bottom: 6px;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-family: var(--font-monospace);
+  font-size: 11px;
+  color: var(--text-muted);
+  background-color: var(--background-secondary);
+  opacity: 1;
+}
+
+.cm-tooltip-hover .cm-tooltip-lint .cm-diagnosticText {
+  display: block;
+  flex-basis: 100%;
+  margin-bottom: 0;
+  font-size: 13px;
+  line-height: 1.4;
+  color: var(--text-normal);
+}
+
+/* Fix and Docs actions */
+.cm-tooltip-hover .cm-tooltip-lint .cm-diagnosticAction {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: auto;
+  max-width: fit-content;
+  margin: 8px 6px 0 0;
+  padding: 4px 10px;
+  border: 1px solid var(--text-accent);
+  border-radius: 4px;
+  font: inherit;
+  font-size: 11px;
+  font-weight: 500;
+  color: var(--text-accent);
+  background-color: transparent;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.cm-tooltip-hover .cm-tooltip-lint .cm-diagnosticAction:hover {
+  color: var(--text-on-accent);
+  background-color: var(--text-accent);
+}
+
+/* The Docs action, when it follows Fix, is the quiet secondary one */
+.cm-tooltip-hover .cm-tooltip-lint .cm-diagnosticAction:last-of-type:not(:first-of-type) {
+  padding: 4px 6px;
+  border: none;
+  font-weight: 400;
+  color: var(--text-muted);
+  background-color: transparent;
+}
+
+.cm-tooltip-hover .cm-tooltip-lint .cm-diagnosticAction:last-of-type:not(:first-of-type):hover {
+  color: var(--text-accent);
+  background-color: transparent;
+}
+
+/* The "Fix all" footer is a hint-severity diagnostic */
+.cm-tooltip-hover .cm-tooltip-lint .cm-diagnostic.cm-diagnostic-hint {
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 10px 14px;
+  border-left: 3px solid transparent;
+  border-radius: 0 0 7px 7px;
+  background-color: var(--background-secondary);
+}
+
+.cm-tooltip-hover .cm-tooltip-lint .cm-diagnostic-hint .cm-diagnosticText {
+  display: none;
+}
+
+.cm-tooltip-hover .cm-tooltip-lint .cm-diagnostic-hint .cm-diagnosticSource {
+  order: 1;
+  margin: 6px 0 0;
+  padding: 0;
+  font-family: var(--font-interface);
+  color: var(--text-muted);
+  background-color: transparent;
+}
+
+.cm-tooltip-hover .cm-tooltip-lint .cm-diagnostic-hint .cm-diagnosticAction {
+  order: 0;
+  margin-top: 0;
+  border: none;
+  color: var(--text-on-accent);
+  background-color: var(--interactive-accent);
+}
+
+.cm-tooltip-hover .cm-tooltip-lint .cm-diagnostic-hint .cm-diagnosticAction:hover {
+  background-color: var(--interactive-accent-hover);
+}
