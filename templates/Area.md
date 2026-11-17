@@ -5,11 +5,11 @@ created: {{DATE:YYYY-MM-DD}}
 tags: []
 ---
 
-# {{VALUE:title}}
+# {{VALUE:Title}}
 
 ## Overview
 
-{{VALUE:overview|type:multiline}}
+{{VALUE:Overview|type:multiline}}
 
 ## Related projects
 

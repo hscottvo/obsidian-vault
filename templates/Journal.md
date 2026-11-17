@@ -6,4 +6,4 @@ tags: []
 
 # {{DATE:MMMM D, YYYY}}
 
-{{VALUE:entry|type:multiline}}
+{{VALUE:Entry|type:multiline}}

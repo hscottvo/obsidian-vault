@@ -6,11 +6,11 @@ tags: []
 project: []
 ---
 
-# {{VALUE:title}}
+# {{VALUE:Title}}
 
 ## Outcome
 
-{{VALUE:outcome|type:multiline}}
+{{VALUE:Outcome|type:multiline}}
 
 ## Tasks
 

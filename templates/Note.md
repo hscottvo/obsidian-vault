@@ -6,8 +6,8 @@ tags: []
 project: []
 ---
 
-# {{VALUE:title}}
+# {{VALUE:Title}}
 
 ## Notes
 
-{{VALUE:notes|type:multiline}}
+{{VALUE:Notes|type:multiline}}
