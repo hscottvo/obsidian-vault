@@ -30,6 +30,37 @@
       "fileExistsBehavior": {
         "kind": "prompt"
       }
+    },
+    {
+      "id": "8de3d2bf-7765-447c-9e71-2e3da0a9a6d4",
+      "name": "New template",
+      "type": "Template",
+      "command": false,
+      "templatePath": "templates/quickadd",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "discoverExistingNotesBeforeCreate": false,
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "copyLinkToClipboard": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsBehavior": {
+        "kind": "prompt"
+      }
     }
   ],
   "inputPrompt": "single-line",
@@ -45,7 +76,7 @@
   "announceUpdates": "major",
   "version": "2.33.1",
   "globalVariables": {},
-  "onePageInputEnabled": false,
+  "onePageInputEnabled": true,
   "disableOnlineFeatures": true,
   "enableUriCallbacks": false,
   "enableRibbonIcon": false,
