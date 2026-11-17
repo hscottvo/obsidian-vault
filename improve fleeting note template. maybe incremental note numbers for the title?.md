@@ -1,8 +1,6 @@
 ---
 created: 2026-11-15 10:06
 tags:
-  - gardening
-  - story
 project: obsidian
 ---
 

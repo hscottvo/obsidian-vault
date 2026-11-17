@@ -1,14 +1,14 @@
 {
   "choices": [
     {
-      "id": "446ae352-2b82-4587-b5ec-e7d6ea49375f",
-      "name": "Fleeting Note",
+      "id": "32cfa3c1-bf22-44c8-b969-6d885be00cba",
+      "name": "Journal",
       "type": "Template",
-      "command": true,
-      "templatePath": "templates/Fleeting.md",
+      "command": false,
+      "templatePath": "Templates/Journal.md",
       "fileNameFormat": {
-        "enabled": false,
-        "format": ""
+        "enabled": true,
+        "format": "{{DATE}}"
       },
       "discoverExistingNotesBeforeCreate": false,
       "folder": {
@@ -22,7 +22,7 @@
       "copyLinkToClipboard": false,
       "openFile": true,
       "fileOpening": {
-        "location": "tab",
+        "location": "reuse",
         "direction": "vertical",
         "mode": "default",
         "focus": true
@@ -32,11 +32,11 @@
       }
     },
     {
-      "id": "8dbfcc13-68ff-4aea-bc8c-3771be249f98",
-      "name": "Note",
+      "id": "0083b61f-c8e1-48ab-a8db-943f92b8fee5",
+      "name": "New template",
       "type": "Template",
       "command": false,
-      "templatePath": "templates/Note.md",
+      "templatePath": "",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
@@ -51,7 +51,7 @@
       },
       "appendLink": false,
       "copyLinkToClipboard": false,
-      "openFile": true,
+      "openFile": false,
       "fileOpening": {
         "location": "tab",
         "direction": "vertical",
@@ -71,7 +71,7 @@
   "templateFolderLauncherRow": "bottom",
   "devMode": false,
   "templateFolderPaths": [
-    "templates"
+    "Templates"
   ],
   "announceUpdates": "major",
   "version": "2.33.1",
