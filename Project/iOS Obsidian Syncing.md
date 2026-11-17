@@ -24,7 +24,7 @@ if we can have directory-scoped gitignores, we can just do that, probably. or we
 - have to make sure that we don't push to the wrong thing
 - infosec
 - tracking
-
+testing?
 
 ## Tasks
 
