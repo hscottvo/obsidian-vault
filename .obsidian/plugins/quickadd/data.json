@@ -32,11 +32,11 @@
       }
     },
     {
-      "id": "8de3d2bf-7765-447c-9e71-2e3da0a9a6d4",
-      "name": "New template",
+      "id": "8dbfcc13-68ff-4aea-bc8c-3771be249f98",
+      "name": "Note",
       "type": "Template",
       "command": false,
-      "templatePath": "templates/quickadd",
+      "templatePath": "templates/Note.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
@@ -51,7 +51,7 @@
       },
       "appendLink": false,
       "copyLinkToClipboard": false,
-      "openFile": false,
+      "openFile": true,
       "fileOpening": {
         "location": "tab",
         "direction": "vertical",
