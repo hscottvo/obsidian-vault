@@ -1,4 +1,9 @@
-1. recognize where you messed up
+---
+created: 2026-11-16 21:51
+type: thought
+phase: planning
+---
+1. recog nize where you messed up
 2. work through other person's frustrations together, since i did something that affected them
 3. take care of yourself and feel your feelings. give yourself some grace
 	1. go for a walk

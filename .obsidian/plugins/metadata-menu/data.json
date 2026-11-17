@@ -12,7 +12,7 @@
         "valuesListNotePath": "metadata-menu/phase.md"
       },
       "name": "phase",
-      "id": "FD8sOm",
+      "id": "UJ0Yv9",
       "path": ""
     },
     {
@@ -39,7 +39,7 @@
   "classFilesPath": null,
   "isAutosuggestEnabled": true,
   "fileClassAlias": "fileClass",
-  "settingsVersion": "5.7",
+  "settingsVersion": "5.5",
   "firstDayOfWeek": 1,
   "enableLinks": true,
   "enableTabHeader": true,
