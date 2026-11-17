@@ -1,8 +1,9 @@
 ---
-type: {{VALUE:type}}
-phase: {{VALUE:phase}}
+type: note
+status: active
 created: {{DATE:YYYY-MM-DD}}
-project: {{VALUE:project}}
+tags: []
+project: []
 ---
 
 # {{VALUE:title}}

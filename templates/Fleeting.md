@@ -1,8 +1,11 @@
 ---
-phase: 
-type: 
-created: "{{DATE:YYYY-MM-DD HH:mm}}"
+type: note
+status: inbox
+created: {{DATE:YYYY-MM-DD}}
+tags: []
+project: []
 ---
 
-{{VALUE}}
-{{test}}
+# {{VALUE:title}}
+
+{{VALUE:thought|type:multiline}}
