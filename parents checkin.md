@@ -1,13 +1,11 @@
 ---
 tags:
-  - "#australia-apr-2027"
-  - "#taiwan-jan-2027"
 created: 2026-11-15 9:33:40
 project:
   - australia apr 2027
   - taiwan jan 2027
-phase:
 type:
+status: active
 ---
 
 ## Australia
