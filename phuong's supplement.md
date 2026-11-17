@@ -7,6 +7,7 @@ project:
 ---
 
 #todo get the name of the supplement in here
+#todo ask jon about it by 2026-11-18
 
 # phuong's supplement
 
