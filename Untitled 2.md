@@ -1,0 +1,1 @@
+personal improvement: write stuff down so i don't start from scratch every time
