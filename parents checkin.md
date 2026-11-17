@@ -6,8 +6,8 @@ created: 2026-11-15 9:33:40
 project:
   - australia apr 2027
   - taiwan jan 2027
-phase: 
-type: 
+phase:
+type:
 ---
 
 ## Australia
