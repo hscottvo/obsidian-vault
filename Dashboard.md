@@ -1,6 +1,6 @@
 ## Capture
 
-[New fleeting note](obsidian://quickadd?vault=obsidian-vault&choice=Fleeting)
+[New fleeting note](obsidian://quickadd?choice=Fleeting)
 
 ## Create
 
