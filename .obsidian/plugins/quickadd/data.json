@@ -12,8 +12,10 @@
       },
       "discoverExistingNotesBeforeCreate": false,
       "folder": {
-        "enabled": false,
-        "folders": [],
+        "enabled": true,
+        "folders": [
+          "Journal"
+        ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false
@@ -43,8 +45,10 @@
       },
       "discoverExistingNotesBeforeCreate": false,
       "folder": {
-        "enabled": false,
-        "folders": [],
+        "enabled": true,
+        "folders": [
+          "Project"
+        ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false
@@ -74,8 +78,10 @@
       },
       "discoverExistingNotesBeforeCreate": false,
       "folder": {
-        "enabled": false,
-        "folders": [],
+        "enabled": true,
+        "folders": [
+          "Area"
+        ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false
@@ -105,8 +111,10 @@
       },
       "discoverExistingNotesBeforeCreate": false,
       "folder": {
-        "enabled": false,
-        "folders": [],
+        "enabled": true,
+        "folders": [
+          "Fleeting"
+        ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false
