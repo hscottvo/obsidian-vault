@@ -1,9 +1,9 @@
 ---
-created: 2026-11-15 20:43
-tags:
-project: quilt
 type: note
 status: complete
+created: 2026-11-17
+tags: []
+project: ["quilt"]
 ---
 
 # slanted stitches

@@ -1,6 +1,6 @@
 ---
 type: note
-status: inbox
+status: complete
 created: 2026-11-17
 tags: []
 project: []

@@ -1,7 +1,9 @@
 ---
-created: 2026-11-16 21:51
-type: thought
-phase: planning
+type: note
+status: active
+created: 2026-11-16
+tags: []
+project: []
 ---
 1. recognize where you messed up
 2. work through other person's frustrations together, since i did something that affected them
