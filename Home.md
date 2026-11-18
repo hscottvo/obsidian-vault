@@ -17,5 +17,4 @@ SORT created DESC
 TABLE phase
 FROM ""
 WHERE type = "project"
-AND status = "active"
 ```

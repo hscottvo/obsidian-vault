@@ -106,8 +106,8 @@
       "command": false,
       "templatePath": "Templates/Fleeting.md",
       "fileNameFormat": {
-        "enabled": false,
-        "format": ""
+        "enabled": true,
+        "format": "Fleeting 1"
       },
       "discoverExistingNotesBeforeCreate": false,
       "folder": {
@@ -129,7 +129,8 @@
         "focus": true
       },
       "fileExistsBehavior": {
-        "kind": "prompt"
+        "kind": "apply",
+        "mode": "increment"
       }
     },
     {

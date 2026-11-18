@@ -6,6 +6,6 @@ tags: []
 project: []
 ---
 
-# {{VALUE:Title}}
+# {{TITLE}}
 
 {{VALUE:Thought|type:multiline}}
