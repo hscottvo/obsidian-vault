@@ -7,6 +7,8 @@ tags: []
 
 # {{TITLE}}
 
+Sourced from {{LINKCURRENT}}
+
 ## Outcome
 
 ## Tasks

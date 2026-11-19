@@ -7,6 +7,8 @@ tags: []
 
 # {{VALUE:Title}}
 
+Sourced from {{LINKCURRENT}}
+
 ## Overview
 
 ## Related projects
