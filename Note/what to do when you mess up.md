@@ -1,9 +1,10 @@
 ---
-id: "what to do when you mess up"
+id: what to do when you mess up
 aliases: []
 tags: []
 created: 2026-11-16
-project: []
+project:
+  - "[[Communication Skills]]"
 status: active
 type: note
 ---
