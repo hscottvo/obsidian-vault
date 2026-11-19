@@ -1,7 +1,7 @@
 ---
 type: note
 status: inbox
-created: "{{DATE:DD-MM-YYYY}}"
+created: "{{DATE:YYYY-MM-DD}}"
 tags: []
 project: []
 ---

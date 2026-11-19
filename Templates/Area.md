@@ -1,7 +1,7 @@
 ---
 type: area
 status: active
-created: "{{DATE:DD-MM-YYYY}}"
+created: "{{DATE:YYYY-MM-DD}}"
 tags: []
 ---
 
