@@ -1,16 +1,20 @@
 ---
-type: project
-status: planning
-created: 2026-11-16
+id: "iOS Obsidian Syncing"
+aliases: []
 tags: []
+created: 2026-11-16
 project: []
+status: planning
+type: project
 ---
 
 # iOS Obsidian syncing
 
 ## Outcome
 
-## i want my obsidian config on github to be declarative. but work stuff can't be on that repo. maybe on gitignore?
+## i want my obsidian config on github to be declarative
+
+- but work stuff can't be on that repo. maybe on gitignore?
 
 if we can have directory-scoped gitignores, we can just do that, probably. or we
 can do a branch and rebase it from main for the config. shoulnd't be too bad

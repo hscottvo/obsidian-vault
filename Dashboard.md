@@ -1,3 +1,11 @@
+---
+id: Dashboard
+aliases: []
+tags: []
+---
+
+# Dashboard
+
 ## Capture
 
 [New fleeting note](obsidian://quickadd?choice=Fleeting)

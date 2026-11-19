@@ -1,12 +1,16 @@
 ---
-tags:
+id: "parents checkin"
+aliases: []
+tags: []
 created: 2026-11-15 9:33:40
 project:
-  - australia apr 2027
-  - taiwan jan 2027
-type:
+  - "australia apr 2027"
+  - "taiwan jan 2027"
 status: active
+type:
 ---
+
+# Parents Checkin
 
 ## Australia
 
