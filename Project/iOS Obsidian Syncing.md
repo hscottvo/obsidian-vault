@@ -12,7 +12,8 @@ project: []
 
 ## i want my obsidian config on github to be declarative. but work stuff can't be on that repo. maybe on gitignore?
 
-if we can have directory-scoped gitignores, we can just do that, probably. or we can do a branch and rebase it from main for the config. shoulnd't be too bad
+if we can have directory-scoped gitignores, we can just do that, probably. or we
+can do a branch and rebase it from main for the config. shoulnd't be too bad
 
 ### gitignore
 

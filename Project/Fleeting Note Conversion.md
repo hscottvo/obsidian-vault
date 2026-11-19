@@ -10,7 +10,8 @@ project: []
 
 ## Outcome
 
-I want to be on a fleeting note, then convert it nicely into a project, note, journal, etc. Thinking about how to do that.
+I want to be on a fleeting note, then convert it nicely into a project, note,
+journal, etc. Thinking about how to do that.
 
 ## Tasks
 
