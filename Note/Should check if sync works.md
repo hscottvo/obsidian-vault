@@ -7,4 +7,3 @@ project: []
 ---
 
 # Check if sync works
-

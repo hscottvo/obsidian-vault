@@ -5,4 +5,5 @@ created: {{DATE:YYYY-MM-DD}}
 tags: []
 project: []
 ---
+
 {{VALUE:Notes|type:multiline}}

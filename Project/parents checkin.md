@@ -16,7 +16,7 @@ status: active
   - as of now parents don't seem like they're going
 - misplaced or threw the invitation or something
   - #todone: ba has to talk to chu chanh (brenda/susan dad)
-	  - smaller wedding, more like some ppl in the family cooking a bunch of stuff. ~100 ppl
+    - smaller wedding, more like some ppl in the family cooking a bunch of stuff. ~100 ppl
 - brenda susan chu chanh are going, brenda susan r going to new zealand and stuff too
 
 ## Taiwan
