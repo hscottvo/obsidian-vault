@@ -11,7 +11,7 @@ Sourced from [[Communication Skills]]
 
 ## Outcome
 
-An app that will calculate receipt splits 
+An app that will calculate receipt splits between a group of people
 
 ## Tasks
 
