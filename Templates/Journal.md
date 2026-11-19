@@ -1,9 +1,9 @@
 ---
 type: journal
-created: {{DATE:YYYY-MM-DD}}
+created: "{{DATE:DD-MM-YYYY}}"
 tags: []
 ---
 
-# {{DATE:MMMM D, YYYY}}
+# {{DATE:DD-MM-YYYY}}
 
 {{VALUE:Entry|type:multiline}}

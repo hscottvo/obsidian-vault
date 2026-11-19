@@ -1,9 +1,11 @@
 ---
 type: note
 status: active
-created: {{DATE:YYYY-MM-DD}}
+created: "{{DATE:DD-MM-YYYY}}"
 tags: []
 project: []
 ---
+
+# {{TITLE}}
 
 {{VALUE:Notes|type:multiline}}
