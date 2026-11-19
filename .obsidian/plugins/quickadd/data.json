@@ -4,7 +4,7 @@
       "id": "32cfa3c1-bf22-44c8-b969-6d885be00cba",
       "name": "Journal",
       "type": "Template",
-      "command": false,
+      "command": true,
       "templatePath": "Templates/Journal.md",
       "fileNameFormat": {
         "enabled": true,
@@ -37,7 +37,7 @@
       "id": "0083b61f-c8e1-48ab-a8db-943f92b8fee5",
       "name": "Project",
       "type": "Template",
-      "command": false,
+      "command": true,
       "templatePath": "Templates/Project.md",
       "fileNameFormat": {
         "enabled": false,
@@ -70,7 +70,7 @@
       "id": "feac1751-8ac5-4966-972d-dd2fda244c47",
       "name": "Area",
       "type": "Template",
-      "command": false,
+      "command": true,
       "templatePath": "Templates/Area.md",
       "fileNameFormat": {
         "enabled": false,
@@ -103,7 +103,7 @@
       "id": "0349a4ce-7d4a-40e4-8a54-475854cd9576",
       "name": "Fleeting",
       "type": "Template",
-      "command": false,
+      "command": true,
       "templatePath": "Templates/Fleeting.md",
       "fileNameFormat": {
         "enabled": true,
@@ -137,7 +137,7 @@
       "id": "fe9d9e97-97bd-4e1d-8347-983535f9afc8",
       "name": "Note",
       "type": "Template",
-      "command": false,
+      "command": true,
       "templatePath": "Templates/Note.md",
       "fileNameFormat": {
         "enabled": true,

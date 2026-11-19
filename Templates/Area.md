@@ -7,7 +7,7 @@ tags: []
 
 # {{VALUE:Title}}
 
-Sourced from {{LINKCURRENT}}
+{{TEMPLATE:Templates/Fragments/Sourced from Linked Current.md}}
 
 ## Overview
 

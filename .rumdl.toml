@@ -1,3 +1,6 @@
 [MD013]
 reflow = true
 reflow-mode = "normalize"
+
+[per-file-ignores]
+"Templates/**" = ["MD041"]

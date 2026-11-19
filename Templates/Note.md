@@ -8,4 +8,4 @@ project: "{{FILE:Project|link|optional}}"
 
 # {{TITLE}}
 
-Sourced from {{LINKCURRENT}}
+{{TEMPLATE:Templates/Fragments/Sourced from Linked Current.md}}

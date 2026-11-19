@@ -8,5 +8,59 @@
       "key": "N"
     }
   ],
-  "file-explorer:new-file-in-new-pane": []
+  "file-explorer:new-file-in-new-pane": [],
+  "quickadd:choice:ed5c7a60-e996-43d8-bc8f-2dd61ccae91d": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "N"
+    }
+  ],
+  "quickadd:choice:fe9d9e97-97bd-4e1d-8347-983535f9afc8": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "N"
+    }
+  ],
+  "quickadd:choice:0083b61f-c8e1-48ab-a8db-943f92b8fee5": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "quickadd:choice:32cfa3c1-bf22-44c8-b969-6d885be00cba": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "J"
+    }
+  ],
+  "quickadd:choice:0349a4ce-7d4a-40e4-8a54-475854cd9576": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "quickadd:choice:feac1751-8ac5-4966-972d-dd2fda244c47": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "A"
+    }
+  ]
 }
