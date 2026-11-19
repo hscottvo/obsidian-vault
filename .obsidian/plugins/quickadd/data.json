@@ -140,8 +140,8 @@
       "command": false,
       "templatePath": "Templates/Note.md",
       "fileNameFormat": {
-        "enabled": false,
-        "format": ""
+        "enabled": true,
+        "format": "{{VALUE:title|default:Note}}"
       },
       "discoverExistingNotesBeforeCreate": false,
       "folder": {
@@ -163,7 +163,8 @@
         "focus": true
       },
       "fileExistsBehavior": {
-        "kind": "prompt"
+        "kind": "apply",
+        "mode": "increment"
       }
     }
   ],
