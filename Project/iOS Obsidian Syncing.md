@@ -24,9 +24,7 @@ can do a branch and rebase it from main for the config. shoulnd't be too bad
 
 - have to make sure that we don't push to the wrong thing
 - infosec
-- tracking
-testing?
-Poop
+- tracking testing? Poop
 
 ### Tasks
 

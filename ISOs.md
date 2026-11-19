@@ -1,18 +1,19 @@
 ---
-type: note
-status: active
-created: 2026-11-17
+id: ISOs
+aliases: []
 tags: []
+created: 2026-11-17
 project: []
+status: active
+type: note
 ---
 
 # ISO RSU
 
 ## Notes
 
-in Carta
-can't exercise them
-
+- in Carta
+- can't exercise them
 - RSUs are for stuff that's alreayd on the market, compnay posted for numeric
   dollar value
 - ISOs option to won a % of the company at a reduced price
