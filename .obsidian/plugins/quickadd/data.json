@@ -107,7 +107,7 @@
       "templatePath": "Templates/Fleeting.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "Fleeting 1"
+        "format": "{{VALUE:title|default:Note}}"
       },
       "discoverExistingNotesBeforeCreate": false,
       "folder": {
@@ -130,7 +130,7 @@
       },
       "fileExistsBehavior": {
         "kind": "apply",
-        "mode": "increment"
+        "mode": "duplicateSuffix"
       }
     },
     {
@@ -164,7 +164,7 @@
       },
       "fileExistsBehavior": {
         "kind": "apply",
-        "mode": "increment"
+        "mode": "duplicateSuffix"
       }
     }
   ],
