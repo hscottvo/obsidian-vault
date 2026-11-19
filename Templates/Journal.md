@@ -5,5 +5,3 @@ tags: []
 ---
 
 # {{DATE:YYYY-MM-DD}}
-
-{{VALUE:Entry|type:multiline}}

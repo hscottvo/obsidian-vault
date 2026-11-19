@@ -9,8 +9,6 @@ tags: []
 
 ## Outcome
 
-{{VALUE:Outcome|type:multiline}}
-
 ## Tasks
 
 - [ ]

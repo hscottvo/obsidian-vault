@@ -9,8 +9,6 @@ tags: []
 
 ## Overview
 
-{{VALUE:Overview|type:multiline}}
-
 ## Related projects
 
 ## Notes

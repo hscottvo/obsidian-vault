@@ -7,5 +7,3 @@ project: []
 ---
 
 # {{TITLE}}
-
-{{VALUE:Thought|type:multiline}}
