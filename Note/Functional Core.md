@@ -20,3 +20,8 @@ We should have a stateless core that encapsulates our business logic.
 $$\mathrm{rate} = \dfrac{\mathrm{subtotal}+\mathrm{tax}+\mathrm{tip}}{\mathrm{subtotal}}$$
 
 - Then, we can apply that rate on each item.
+
+## Per-item Rate Calculation
+
+- Individual items' subtotals can simply be multiplied by the rate calculated
+  above
