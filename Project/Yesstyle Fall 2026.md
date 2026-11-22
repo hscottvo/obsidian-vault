@@ -33,5 +33,46 @@ tags: []
 - [Beauty of Joseon - Green Plum Refreshing Cleanser Jumbo](https://www.yesstyle.com/en/beauty-of-joseon-green-plum-refreshing-cleanser-jumbo-200ml/info.html/pid.1135597913)
   - $\$16/200ml = 8c/ml$
 
-From Ellie’s [YouTube video](https://youtube.com/shorts/C87SVaNkyZw?si=38xLv1gOsIQhkBlo)
+### From Ellie’s [YouTube video](https://youtube.com/shorts/C87SVaNkyZw?si=38xLv1gOsIQhkBlo)
+
+#### Anua Heartleaf Quercetinol Pore Deep Cleansing Foam @anua_global - S Tier
+
+- The best fit here for oily skin with clogged pores V celimax The Real Noni
+#### Acne Bubble Cleanser @celimax.global - A Tier
+
+- Salicylic-acid cleansing for oily, acne-prone skin 
+#### Arencia Fresh Green Rice Mochi Cleanser @arencia_global - A Tier
+
+- Oil-absorbing powders, but watch the fragrance and textured formula
+
+#### V SKIN1004 Madagascar Centella Poremizing Deep Cleansing Foam @skin1004official 
+
+- A Tier
+- Strong oil removal, though it may feel stripping if overused
+
+V ROUND LAB 1025 Dokdo Cleanser @roundlab_us
+
+- B Tier
+
+Balanced daily cleansing, but less specifically targeted to oily skin
+
+v SKIN1004 Madagascar Centella Ampoule Foam @skin1004official - B Tier
+
+A gentle low-pH foam without strong oil-control targeting
+
+| Haruharu Wonder Black Rice Moisture 5.5 Soft
+
+Cleansing Gel @haruharuwonder_official - B Tier
+
+A gentle low-pH gel, but not a pore-focused cleanser V Beauty of Joseon Green Plum Refreshing Cleanser @beautyofjoseon_official - B Tier A simple, balanced daily gel cleanser
+
+V ROUND LAB Birch Juice Moisturizing Cleanser @roundlab_us - C Tier
+
+More moisturizing than oil-targeted
+
+V PURITO SEOUL Mighty Bamboo Panthenol
+
+Cleanser @purito_official - C Tier
+
+Comfort-focused, but less compelling for excess oil
 ![[Pasted image 20261122083856.png]]
