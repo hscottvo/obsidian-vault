@@ -33,5 +33,5 @@ tags: []
 - [Beauty of Joseon - Green Plum Refreshing Cleanser Jumbo](https://www.yesstyle.com/en/beauty-of-joseon-green-plum-refreshing-cleanser-jumbo-200ml/info.html/pid.1135597913)
   - $\$16/200ml = 8c/ml$
 
-From Ellie’s YouTube video
+From Ellie’s [YouTube video]()
 ![[Pasted image 20261122083856.png]]
