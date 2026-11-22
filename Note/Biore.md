@@ -8,4 +8,5 @@ project: ""
 
 # Biore
 
-10.22 on Yesstyle
+- 10.22 on Yesstyle
+- 9.29 on weee
