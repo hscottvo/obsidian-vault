@@ -49,6 +49,9 @@ tags: []
 #### Arencia Fresh Green Rice Mochi Cleanser @arencia_global - A Tier
 
 - Oil-absorbing powders, but watch the fragrance and textured formula
+- it’s in a tub 
+- Really strong
+- Apparently very fragrance
 
 #### V SKIN1004 Madagascar Centella Poremizing Deep Cleansing Foam @skin1004official
 
