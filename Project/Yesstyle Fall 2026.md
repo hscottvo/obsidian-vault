@@ -43,6 +43,8 @@ tags: []
 #### V celimax The Real Noni Acne Bubble Cleanser @celimax.global - A Tier
 
 - Salicylic-acid cleansing for oily, acne-prone skin
+- seems like Reddit likes it
+- hydrating, apparently doesn’t feel squeaky
 
 #### Arencia Fresh Green Rice Mochi Cleanser @arencia_global - A Tier
 
