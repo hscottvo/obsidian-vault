@@ -10,4 +10,5 @@ project: ""
 
 - mom said shes not going to dam gio. nothign wrong, just not that many people
 - had an idea for banh xeo, but too much work
-- mom asked if i have any plans. 
+- mom cancelling
+- 
