@@ -37,9 +37,10 @@ tags: []
 
 #### Anua Heartleaf Quercetinol Pore Deep Cleansing Foam @anua_global - S Tier
 
-- The best fit here for oily skin with clogged pores V celimax The Real Noni
+- The best fit here for oily skin with clogged pores
+- ppl on reddit have moslty bad reviews
 
-#### Acne Bubble Cleanser @celimax.global - A Tier
+#### V celimax The Real Noni Acne Bubble Cleanser @celimax.global - A Tier
 
 - Salicylic-acid cleansing for oily, acne-prone skin
 
