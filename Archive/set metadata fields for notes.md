@@ -1,7 +1,9 @@
 ---
-created: "2026-11-15 21:37"
+created: 2026-11-15 21:37
 tags:
-  - todo
+  - todone
 ---
 
 # set metadata fields for notes
+
+- 
