@@ -32,7 +32,7 @@ tags: []
   - $\$11.34/150ml = 7.42c/ml$
 - [Beauty of Joseon - Green Plum Refreshing Cleanser Jumbo](https://www.yesstyle.com/en/beauty-of-joseon-green-plum-refreshing-cleanser-jumbo-200ml/info.html/pid.1135597913)
   - $\$16/200ml = 8c/ml$
-==**[ZEROID Intensive Facial Cream Cleanser Mini (25ml)](https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:29,mid:576462892665949236,imageDocid:4093811930433246283,gpcid:359168051669565907,headlineOfferDocid:5241562685638373087,catalogid:1534258412859261907,productDocid:13974072517215810694&q=product&sa=X&ved=2ahUKEwixv8v19p-YAxUpJ4AAHXo5H6kQxa4PegoIAggACAAIDBAC)**==
+- ==**[ZEROID Intensive Facial Cream Cleanser Mini (25ml)](https://www.yesstyle.com/es/zeroid-intensive-facial-cream-cleanser-mini-25ml/info.html/pid.1137997947)**==
 
 ### From Ellie’s [YouTube video](https://youtube.com/shorts/C87SVaNkyZw?si=38xLv1gOsIQhkBlo)
 
@@ -50,7 +50,7 @@ tags: []
 #### Arencia Fresh Green Rice Mochi Cleanser @arencia_global - A Tier
 
 - Oil-absorbing powders, but watch the fragrance and textured formula
-- it’s in a tub 
+- it’s in a tub
 - Really strong
 - Apparently very fragrance
 
