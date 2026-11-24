@@ -6,4 +6,4 @@ tags:
 
 # set metadata fields for notes
 
-- 
+- Not doing: not using metadata fields
