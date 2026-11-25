@@ -4,5 +4,7 @@
   "promptDelete": false,
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "useTab": false,
+  "tabSize": 4
 }

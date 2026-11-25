@@ -4,3 +4,6 @@ reflow-mode = "normalize"
 
 [per-file-ignores]
 "Templates/**" = ["MD041"]
+
+[MD007]
+indent = 4
