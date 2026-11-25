@@ -7,6 +7,3 @@ project: ""
 ---
 
 # Kabocha bread pudding
-
-
-

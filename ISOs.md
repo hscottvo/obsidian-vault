@@ -17,14 +17,14 @@ type: note
 - RSUs are for stuff that's alreayd on the market, compnay posted for numeric
   dollar value
 - ISOs option to won a % of the company at a reduced price
-  - can't sell to anybody cause no market to sell it to.
-  - have option that has vested and didnt purchase, or purchase a share of the
-    company. no value until the company IPOs.
+    - can't sell to anybody cause no market to sell it to.
+    - have option that has vested and didnt purchase, or purchase a share of the
+      company. no value until the company IPOs.
 
 ## Sush ISO experience
 
 - ex allocated .10, farm rmarket 1.55
-  - could purchase each .10 sell 1.55, taxes on the 1.40 gain
+    - could purchase each .10 sell 1.55, taxes on the 1.40 gain
 - buy option and immediately sell, counts as a short term gain, taxed as such.
 - buy something, hold onto. for year, sell, counts as long term gain, taxed as
   such.
