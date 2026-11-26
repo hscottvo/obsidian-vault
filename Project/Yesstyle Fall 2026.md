@@ -33,6 +33,7 @@ tags: []
 - [Beauty of Joseon - Green Plum Refreshing Cleanser Jumbo](https://www.yesstyle.com/en/beauty-of-joseon-green-plum-refreshing-cleanser-jumbo-200ml/info.html/pid.1135597913)
     - $\$16/200ml = 8c/ml$
 - ==**[ZEROID Intensive Facial Cream Cleanser Mini (25ml)](https://www.yesstyle.com/es/zeroid-intensive-facial-cream-cleanser-mini-25ml/info.html/pid.1137997947)**==
+    - nope this isn't right
 
 ### From Ellie’s [YouTube video](https://youtube.com/shorts/C87SVaNkyZw?si=38xLv1gOsIQhkBlo)
 
