@@ -16,4 +16,5 @@ project: ""
   little uncomfortable on keita's behalf, but i felt kinda vindiated when he set
   the boundary. sunny said that she doesn't think it's a big deal, but i felt
   like it was a little intrusive?
-- if i have less empathy, i will probably be less strressed. but does it mean that i care mo
+- if i have less empathy, i will probably be less strressed. but does it mean
+  that i care more about people? No idea
