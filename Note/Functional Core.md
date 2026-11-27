@@ -21,9 +21,29 @@ $$\mathrm{rate} = \dfrac{\mathrm{subtotal}+\mathrm{tax}+\mathrm{tip}}{\mathrm{su
 
 - Then, we can apply that rate on each item.
 
+### Examples
+
+| Item         | Value ($) |
+| ------------ | --------- |
+| Pho          | 15.50     |
+| Large        | 2.50      |
+| Pho          | 16.00     |
+| Large        | 2.50      |
+| Spring Rolls | 6.00      |
+| Pho          | 16.00     |
+| Large        | 2.50      |
+
+| Category | Value ($) |
+| -------- | --------- |
+| Subtotal | 61.00     |
+| Tax      | 5.03      |
+| Tip      | 9.15      |
+| Total    | 75.18     |
+
+
 ## Per-item Rate Calculation
 
 - Individual items' subtotals can simply be multiplied by the rate calculated
-  above
+  above in `Total Rate Calculation`
 
-op
+### Examples
