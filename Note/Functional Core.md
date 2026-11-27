@@ -25,3 +25,5 @@ $$\mathrm{rate} = \dfrac{\mathrm{subtotal}+\mathrm{tax}+\mathrm{tip}}{\mathrm{su
 
 - Individual items' subtotals can simply be multiplied by the rate calculated
   above
+
+op
